@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full Stack Javascript and Flutter Developer.
+#### I'm a ...
 
 ##### NOW
 
