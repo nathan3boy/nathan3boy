@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### I'm a ...
-
 ##### NOW
 
 - 🍑 What about this?
