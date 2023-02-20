@@ -2,7 +2,7 @@
 
 ##### NOW
 
-- 🍑 What about this?
+- 🍑 Just dying each day
 
 ##### BIO
 
