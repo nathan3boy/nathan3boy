@@ -7,7 +7,6 @@
 
 ##### BIO
 
-
 - 🏢 Doing things and watching anime and being weirdly weird
 - ⚙️ I use daily: `.tsx`, `.js`, `.scss`, `.svg`, `.dart`, `.ts`
 - 🌍 I'm mostly active within the **Node.js Community**
