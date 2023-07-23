@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=""  width="90px" >
+<img src="https://raw.githubusercontent.com/nathan2slime/nathan2slime/main/assets/nathan3boss.gif"  width="120px" >
 
 ##### NOW
 
