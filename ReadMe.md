@@ -20,5 +20,3 @@
 
 - 🐦 [Twitter](https://twitter.com/__nathan3boss__)
 - 📧 [Email](mailto:nathan3boss@gmail.com)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan2slime&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=FFF&icon_color=7436E1&text_color=EEE6FB&bg_color=0,000000,1D2138" />
