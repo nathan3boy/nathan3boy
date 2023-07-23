@@ -8,7 +8,7 @@
 - 🔭 Exploring the wonders of astronomy and stargazing!
 - 💼 Working hard at Madpine Studios!
 
-###### BIO
+##### BIO
 
 - 🏢 Doing things, watching anime, and being wonderfully weird
 - ⚙️ I use daily: `.tsx`, `.js`, `.scss`, `.svg`, `.dart`, `.ts`
@@ -17,7 +17,7 @@
 - 💬 Ping me about **design**, **branding**, **typescript**, **flutter**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Lord of the Rings
 
-##### Find me 🌎
+##### FIND ME 🌎
 
 - 🐦 [Twitter](https://twitter.com/__nathan3boss__)
 - 📧 [Email](mailto:nathan3boss@gmail.com)
