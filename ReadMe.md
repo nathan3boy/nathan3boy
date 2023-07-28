@@ -5,7 +5,7 @@
 
 - 🌟 Embracing each day with passion and curiosity! 🍃
 - 🔭 Exploring the wonders of astronomy and stargazing!
-- 💼 Working hard at Madpine Studios!
+- 💼 Working hard at USS Enterprise!
 
 ##### BIO
 
