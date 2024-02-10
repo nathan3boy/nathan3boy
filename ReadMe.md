@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 Doing things, watching anime, and being wonderfully weird
-- ⚙️ I use daily: `.tsx`, `.js`, `.scss`, `.svg`, `.dart`, `.ts`
+- ⚙️ I use daily: `.tsx`, `.scss`, `.rb`, `.rs`, `.ts`
 - 🌍 I'm mostly active within the **Node.js Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **typescript**, **flutter**, **development**, **design thinking**
