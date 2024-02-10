@@ -14,4 +14,4 @@
 - ⚡️ Fun fact: I'm a huge fan of Lord of the Rings
 
 ##### FIND ME
-- 🌎 [Personal](https://nathan3boss.dev/)
+- [nathan3boss.dev](https://nathan3boss.dev/)
