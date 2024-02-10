@@ -10,8 +10,8 @@
 - ⚙️ I use daily: `.tsx`, `.scss`, `.rb`, `.rs`, `.ts`
 - 🌍 I'm mostly active within the **Node.js Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **typescript**, **flutter**, **development**, **design thinking**
+- 💬 Ping me about **design**, **anime**, **typescript**, **flutter**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Lord of the Rings
 
 ##### FIND ME
-- [nathan3boss.dev](https://nathan3boss.dev/)
+  [nathan3boss.dev](https://nathan3boss.dev/)
