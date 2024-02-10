@@ -4,7 +4,7 @@
 - 🌟 Embracing each day with passion and curiosity! 🍃
 - 🔭 Exploring the wonders of astronomy and stargazing!
 - 💼 Working hard at Madpine Studio!
-- 
+  
 ##### BIO
 - 🏢 Doing things, watching anime, and being wonderfully weird
 - ⚙️ I use daily: `.tsx`, `.scss`, `.rb`, `.rs`, `.ts`
