@@ -5,7 +5,7 @@
 
 - 🌟 Embracing each day with passion and curiosity! 🍃
 - 🔭 Exploring the wonders of astronomy and stargazing!
-- 💼 Working hard at None!
+- 💼 Working hard at Madpine Studio!
 
 ##### BIO
 
