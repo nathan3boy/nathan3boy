@@ -16,7 +16,8 @@
 - 💬 Ping me about **design**, **branding**, **typescript**, **flutter**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Lord of the Rings
 
-##### FIND ME 🌎
+##### FIND ME
 
+- 🌎 [Jhonathan](https://nathan3boss.dev/)
 - 🐦 [Twitter](https://twitter.com/__nathan3boss__)
 - 📧 [Email](mailto:nathan3boss@gmail.com)
