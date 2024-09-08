@@ -6,7 +6,7 @@
 
 #### ☎️ Find me
 
-- <img height="12" src="https://api.iconify.design/logos:blogger.svg">  [nathan3boss.dev](https://nathan3boss.dev/en)
+- [nathan3boss.dev](https://nathan3boss.dev/en)
 
 
 #### 🛠 Tech Stack
