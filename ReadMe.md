@@ -17,7 +17,8 @@
 <code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:graphql.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:nextjs-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:storybook-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:stenciljs-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nestjs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
