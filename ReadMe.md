@@ -1,5 +1,4 @@
 <img src="https://github.com/nathan2slime/nathan2slime/blob/main/nathan2slime.svg" width="120" />
-<hr />
 
 ### 👋 &nbsp;Hi there, I'm Jhonathan
 
