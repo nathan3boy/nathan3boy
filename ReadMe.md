@@ -4,7 +4,7 @@
 
 > Replacing this pain with something numb.
 
-- 🧑🏻‍💻 Front-end Engineer
+- 🧑🏻‍💻 Software Engineer
 
 #### ☎️ Find me
 
