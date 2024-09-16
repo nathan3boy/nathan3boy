@@ -1,5 +1,3 @@
-<img src="https://github.com/nathan2slime/nathan2slime/blob/main/nathan2slime.svg" width="120" />
-
 ### 👋 &nbsp;Hi there, I'm Jhonathan
 
 > Replacing this pain with something numb.
