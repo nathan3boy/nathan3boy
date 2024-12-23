@@ -18,6 +18,7 @@
 <code><img height="20" src="https://api.iconify.design/logos:storybook-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:stenciljs-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nestjs.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-rust.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-aws.svg"></code>&nbsp;
