@@ -2,7 +2,7 @@
 
 > Replacing this pain with something numb.
 
-- 🧑🏻‍💻 Software Engineer
+- 🧑🏻‍💻 Software Developer
 
 #### ☎️ Find me
 
@@ -11,18 +11,19 @@
 
 #### 🛠 Tech Stack
 
-<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:graphql.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:nextjs-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:storybook-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:stenciljs-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-nestjs.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-rust.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-aws.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
-<code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-postgresql.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-mongodb-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:typescript.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:rust.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:javascript.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:sass.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:vite.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:graphql.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:next.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:storybook.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:stencil.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:nest.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:vitest.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:pnpm.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:docker.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/catppuccin:typescript-react.svg"></code>&nbsp;
+
