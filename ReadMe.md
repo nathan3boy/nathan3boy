@@ -1,6 +1,6 @@
 ### 👋 &nbsp;Hi there, I'm Jhonathan
 
-> Replacing this pain with something numb.
+> Turning dreams into stars, one commit at a time
 
 - 🧑🏻‍💻 Software Developer
 
