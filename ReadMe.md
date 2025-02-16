@@ -1,27 +1,7 @@
-### 👋 &nbsp;Hi there, I'm Jhonathan
-
-- 🧑🏻‍💻 Software Developer
-
-#### ☎️ Find me
-
-- [nathan3boss.dev](https://nathan3boss.dev/en)
+<h3 align="right" style="font-weight: 100;">Hi 👋, I'm Jhonathan</h3>
+<p align="right">Software Developer</p>
+<p align="right">
 
 
-#### 🛠 Tech Stack
-
-<code><img height="20" src="https://api.iconify.design/catppuccin:typescript.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:rust.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:javascript.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:sass.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:vue.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:vite.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:graphql.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:next.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:storybook.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:stencil.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:nest.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:vitest.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:pnpm.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:docker.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/catppuccin:typescript-react.svg"></code>&nbsp;
+<p align="right"><i>Find me <a href="https://nathan3boss.dev/en">https://nathan3boss.dev/en</a><i></i></p>
 
