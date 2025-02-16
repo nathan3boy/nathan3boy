@@ -1,7 +1,5 @@
 ### 👋 &nbsp;Hi there, I'm Jhonathan
 
-> Turning dreams into stars, one commit at a time
-
 - 🧑🏻‍💻 Software Developer
 
 #### ☎️ Find me
